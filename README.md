@@ -1,5 +1,14 @@
 <div align="center">
 
+<a href="./README.md">
+  <img src="https://img.shields.io/badge/Português-38bdf8?style=for-the-badge&logo=google-translate&logoColor=080c14&label=Idioma" alt="Versão em Português" />
+</a>
+<a href="./README.en.md">
+  <img src="https://img.shields.io/badge/English-080c14?style=for-the-badge&logo=google-translate&logoColor=38bdf8&label=Language" alt="English Version" />
+</a>
+
+<br/><br/>
+
 <img src="./assets/banner.svg" alt="Gabriel Arantes Silva — Full Stack Software Engineer & Systems Architect" width="100%" />
 
 <br/>
